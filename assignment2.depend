@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1652425699 source:d:\assignment2\main.cpp
+	<iostream>
+	"Project.h"
+	"Staff.h"
+
+1651248114 source:d:\assignment2\src\budget.cpp
+	"Budget.h"
+
+1650888094 d:\assignment2\include\budget.h
+	<iostream>
+
+1651260642 source:d:\assignment2\src\project.cpp
+	"Project.h"
+	<string>
+	<iostream>
+
+1651247692 d:\assignment2\include\project.h
+	<iostream>
+	"Budget.h"
+	<string>
+
+1651176787 source:d:\assignment2\src\employee.cpp
+	"Employee.h"
+
+1651176819 d:\assignment2\include\employee.h
+	<iostream>
+
+1651260219 source:d:\assignment2\src\department.cpp
+	"Department.h"
+
+1651259065 d:\assignment2\include\department.h
+	<iostream>
+
+1651263530 source:d:\assignment2\src\member.cpp
+	"Member.h"
+	<iostream>
+
+1651263530 d:\assignment2\include\member.h
+	<iostream>
+	"Department.h"
+
+1651259723 d:\assignment2\include\staff.h
+	<iostream>
+	"Member.h"
+	"Project.h"
+	"Budget.h"
+
+1652424046 source:d:\assignment2\src\staff.cpp
+	"Staff.h"
+
