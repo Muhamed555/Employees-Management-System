@@ -1,4 +1,3 @@
-# Employees-Management-System
 
 # About The Project 
 This is the second project as an application of what I learned in object-oriented programming in the second semester of my university studies. Its idea includes a structure that is concerned with organizing employee data and includes the following characteristics:
